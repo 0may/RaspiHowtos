@@ -9,6 +9,8 @@ you can run interactively on your Raspberry Pi.
 Please use a version of Raspbian Stretch with Desktop as the notebook was not tested on the brandnew Raspbian Buster.
 You can find the last Stretch image here: https://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/
 
+Remember the Raspberry Pi cheat sheet if you need more information on installation, terminal etc.: https://wim.adbk-nuernberg.de/pages/raspberrypi/
+
 Open a terminal and fetch this repository:
 ```
 > git clone https://github.com/0may/RaspiHowtos.git
