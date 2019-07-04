@@ -39,3 +39,12 @@ Here is how to run jupyter without opening a browser on your Pi and listening to
 ```
 Make sure to set your Pi's IP address (get with *ifconfig* command). Then you can access jupyter over your local network pointing your
 browser to the address *http://192.168.1.46:9000*.
+
+## Parts required for the tutorials
+
+- Raspberry Pi
+- Monitor, keyboard, mouse (if not run remotely)
+- Breadboard
+- Jumper wires
+- Buttons/switches with pins for breadboard
+- Amplified speakers with 3.5mm jack
