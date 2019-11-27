@@ -34,6 +34,8 @@ echo "\n==== Installing picamera module with arrays ===="
 pip3 install "picamera[array]"
 
 echo "\n==== Installing opencv module ===="
+apt install libpango-1.0-0 libatk1.0-0 libcairo-gobject2 libpangocairo-1.0-0 libqt4-test libtiff5 libqtcore4 libwebp6 libavcodec58 libavutil56 libqtgui4 libavformat58 libgdk-pixbuf2.0-0 libgtk-3-0 libilmbase23 libjasper1 libcairo2 libswscale5 libopenexr23
+apt install libhdf5-dev libhdf5-serial-dev libcblas-dev libatlas-dev libatlas-base-dev libjasper-dev libqt4
 pip3 install opencv-contrib-python
 
 echo "\n==== Installing omxplayer ===="
